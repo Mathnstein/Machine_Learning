@@ -7,4 +7,8 @@
 * Figured out how to access Julia on your terminal: [Remotely](https://next.juliabox.com) or [Locally](https://julialang.org)
 * Take a look at the example Julia code (From TUM workshop) [Notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Meeting%201/julia_basics.ipynb) or [Raw .jl](https://github.com/Mathnstein/Machine_Learning/blob/master/Meeting%201/Julia_basics.jl)
 
-## From Meeting:
+## Goals for meeting:
+
+* Discuss any topics that weren't clear from the reading
+* Write code in Julia for forming the best decision tree classifier
+* Complete the coding part of [Assignment 0](https://www.cs.ubc.ca/~schmidtm/Courses/340-F17/a0.pdf)
