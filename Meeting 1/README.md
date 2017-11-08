@@ -1,4 +1,4 @@
-# Meeting 1
+# Meeting 1: 11/7 Wednesday 5pm in Math 125
 
 ## Prior to the meeting: 
 
