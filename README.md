@@ -6,3 +6,5 @@ This folder will be dedicated to the documents corresponding to our self-study i
 All code can be found here: [Code](https://github.com/Mathnstein/Machine_Learning/tree/master/Code)
 
 * [Meeting 1](https://github.com/Mathnstein/Machine_Learning/tree/master/Meeting%201)
+
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
