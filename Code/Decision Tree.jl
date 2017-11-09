@@ -10,7 +10,7 @@ using StatsBase
 A=randn(n,d)  # Forms random matrix
 y=rand([0,1],n)  # Forms random labels
 
-minRule = zeros(d,2)  # Initialize branch points
+minRule = zeros(d,3)  # Initialize branch points
 X = zeros(n,1)  #Vector for sorted column
 ycopy = y  # Copy of y to hold original
 
@@ -39,12 +39,12 @@ for j = 1:d  # For Each feature 'j'
         end
         yhat = fill(y_above,n)  # Classify each
         yhat[X .<= t] = y_below
-        error=sum(yhat .!= mode(yhat))  # Count Hamming distance
+        error=sum(yhat .!= y)  # Count Hamming distance
         if error < minerror    # Store if it has the least error
             minerror = error
-            minRule[j,:] = [j,t]
+            minRule[j,:] = [j,t,error]
         end
     end
 end
-["Feature" "Branch point";
+["Feature" "Branch point" "error";
 minRule]
