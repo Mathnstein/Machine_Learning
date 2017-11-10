@@ -15,6 +15,18 @@ This folder will be dedicated to the documents corresponding to our self-study i
 * [Meeting 5](https://github.com/Mathnstein/Machine_Learning/tree/master/Meeting%205)
 * [Meeting 6](https://github.com/Mathnstein/Machine_Learning/tree/master/Meeting%206)
 
+## Code for each section:
+
+* A brief intro to Julia from the TUM workshop: [Intro Notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/julia_basics.ipynb) or
+[Intro Raw](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Julia_basics.jl)
+* Meeting 1: [Decision Tree Notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Decision%20Tree.ipynb) or 
+[Decision Tree Raw](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Decision%20Tree.jl)
+* Meeting 2:
+* Meeting 3:
+* Meeting 4:
+* Meeting 5:
+* Meeting 6:
+
 Loosely, here is the schedule:
 
 ![](schedule.jpg)
