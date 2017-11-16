@@ -13,6 +13,6 @@ During our last meeting it became apparant that we need to slow down a bit and r
   - How much of the programming you were able to do
   - Things you're interested in talking more about
 
-## Suggestions? 
+## Edit this!!
 
-(Add your own list here, you have my work that I will not look at the edit history)
+(Add your own list here, you have my word that I will not look at the edit history)
