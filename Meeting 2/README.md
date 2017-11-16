@@ -20,4 +20,4 @@ and [K-Means++ video](https://www.youtube.com/watch?v=BIQDlmZDuf8) or [DBSCAN co
 
 ## Suggestions? 
 
-(Add your own list here, you have my work that I will not look at the edit history)
+(Add your own list here, you have my word that I will not look at the edit history)
