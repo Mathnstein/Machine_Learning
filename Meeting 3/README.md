@@ -15,4 +15,4 @@ During our last meeting it became apparant that we need to slow down a bit and r
 
 ## Edit this!!
 
-(Add your own list here, you have my word that I will not look at the edit history)
+No one edited! So I guess we'll just go through more of assignment 1. Here is how far I got: [Cody's Notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Assignment_1_Cody.ipynb). This notebook is complete up until part 5: KNN.
