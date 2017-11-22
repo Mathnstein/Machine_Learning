@@ -21,7 +21,7 @@ This repository will be dedicated to the documents corresponding to our self-stu
 [Intro Raw](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Julia_basics.jl)
 * Meeting 1: [Decision Tree Notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Decision%20Tree.ipynb) or 
 [Decision Tree Raw](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Decision%20Tree.jl)
-* Meeting 2:
+* Meeting 2: [Assignment 1 notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Assignment_1_Cody.ipynb)
 * Meeting 3:
 * Meeting 4:
 * Meeting 5:
