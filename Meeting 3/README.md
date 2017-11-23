@@ -13,6 +13,8 @@ During our last meeting it became apparant that we need to slow down a bit and r
   - How much of the programming you were able to do
   - Things you're interested in talking more about
 
-## Edit this!!
+## What was discussed:
 
-No one edited! So I guess we'll just go through more of assignment 1. Here is how far I got: [Cody's Notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Assignment_1_Cody.ipynb). This notebook is complete up until part 5: KNN.
+* A bit more of a theoretical discussion of random forests as well as decision trees took place. We were trying to wrap our mind around the size of a random forest given the number of features and data points.
+* We worked through the KNN section of assignment 1 together and still have one small error in the plotting of the KNN example. You can find my [notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Assignment_1_Cody.ipynb) to have everything in it, with answers to sections 1-4.
+* Tried to figure out what should be done next or if we should wait for the remaining group members to catch up.
