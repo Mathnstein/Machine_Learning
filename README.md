@@ -1,10 +1,16 @@
 # Machine Learning
 
-Hi guys!
+Welcome!
 
 ![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
 
-This repository will be dedicated to the documents corresponding to our self-study into ML. All code can be found here: [Code](https://github.com/Mathnstein/Machine_Learning/tree/master/Code)
+This repository will be dedicated to the documents corresponding to my study into ML. There are 3 distinct components:
+* Self study - The brief independent study group to catch up on the applications in ML
+* Cpsc 340 - The undergraduate applications course on ML
+* Cpsc 540 - The graduate level theory course I have taken with Tim Jaschek and Ziming Yin
+
+All code can be found here for the self study: [Code](https://github.com/Mathnstein/Machine_Learning/tree/master/Code).
+The code and assignments for the courses are self explainatory.
 
 ## Meetings
 
@@ -22,12 +28,8 @@ This repository will be dedicated to the documents corresponding to our self-stu
 * Meeting 1: [Decision Tree Notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Decision%20Tree.ipynb) or 
 [Decision Tree Raw](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Decision%20Tree.jl)
 * Meeting 2: [Assignment 1 Notebook](https://github.com/Mathnstein/Machine_Learning/blob/master/Code/Assignment_1_Cody.ipynb)
-* Meeting 3:
-* Meeting 4:
-* Meeting 5:
-* Meeting 6:
 
-Loosely, here is the schedule:
+Loosely, here is the schedule for the self-study:
 
 ![](schedule.jpg)
 
