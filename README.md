@@ -17,9 +17,6 @@ The code and assignments for the courses are self explainatory.
 * [Meeting 1](https://github.com/Mathnstein/Machine_Learning/tree/master/Meeting%201)
 * [Meeting 2](https://github.com/Mathnstein/Machine_Learning/tree/master/Meeting%202)
 * [Meeting 3](https://github.com/Mathnstein/Machine_Learning/tree/master/Meeting%203)
-* [Meeting 4](https://github.com/Mathnstein/Machine_Learning/tree/master/Meeting%204)
-* [Meeting 5](https://github.com/Mathnstein/Machine_Learning/tree/master/Meeting%205)
-* [Meeting 6](https://github.com/Mathnstein/Machine_Learning/tree/master/Meeting%206)
 
 ## Code for each section:
 
