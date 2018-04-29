@@ -26,7 +26,7 @@ Across hours, we find the most interesting behavior. All types seems to behavior
 
 We trained around 1000 Hidden Markov Models to try to be able to predict both the location and amount of crime throughout Vancouver, some of our better results are found below.
 
-For the specific crime \textit{mischief}, we found the following prediction and comparison from sampling from the model. We trained up until March 2018 and then used March as a base-line test set. 
+For the specific crime *mischief*, we found the following prediction and comparison from sampling from the model. We trained up until March 2018 and then used March as a base-line test set. The results are that some temporal component is behaving right and there is evidence that spatial data is working, but there are many errors and the accuracy is quite low.
 
 March Prediction            |  March Reality
 :-------------------------:|:-------------------------:
