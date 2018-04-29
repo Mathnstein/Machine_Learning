@@ -26,9 +26,16 @@ Across hours, we find the most interesting behavior. All types seems to behavior
 
 We trained around 1000 Hidden Markov Models to try to be able to predict both the location and amount of crime throughout Vancouver, some of our better results are found below.
 
+Month Prediction            |  Month Reality
+:-------------------------:|:-------------------------:
+![alt_text][predictmonth]  |  ![alt_text][realitymonth]
+
 
 
 [typeVyear]:https://github.com/Mathnstein/Machine_Learning/blob/master/cs540/Project/Statistics/type_vs_year.png
 [typeVmonth]:https://github.com/Mathnstein/Machine_Learning/blob/master/cs540/Project/Statistics/type_vs_month.png
 [typeVday]:https://github.com/Mathnstein/Machine_Learning/blob/master/cs540/Project/Statistics/type_vs_day.png
 [typeVhour]:https://github.com/Mathnstein/Machine_Learning/blob/master/cs540/Project/Statistics/type_vs_hour.png
+
+[predictmonth]:https://github.com/Mathnstein/Machine_Learning/blob/master/cs540/Project/Latex/Images/predict.png
+[realitymonth]:https://github.com/Mathnstein/Machine_Learning/blob/master/cs540/Project/Latex/Images/real.png
